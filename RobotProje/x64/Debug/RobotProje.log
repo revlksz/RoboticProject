@@ -1,0 +1,76 @@
+﻿  main.cpp
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(10,42): error C2504: 'RobotInterface': base class undefined
+  (compiling source file 'main.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(33,7): error C3668: 'NaoRobotInterface::turnLeft': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'main.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(37,7): error C3668: 'NaoRobotInterface::turnRight': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'main.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(41,7): error C3668: 'NaoRobotInterface::forward': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'main.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(45,7): error C3668: 'NaoRobotInterface::backward': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'main.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(49,7): error C3668: 'NaoRobotInterface::moveLeft': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'main.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(53,7): error C3668: 'NaoRobotInterface::moveRight': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'main.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(57,7): error C3668: 'NaoRobotInterface::stop': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'main.cpp')
+  
+  RobotControl.cpp
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(10,42): error C2504: 'RobotInterface': base class undefined
+  (compiling source file 'RobotControl.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(33,7): error C3668: 'NaoRobotInterface::turnLeft': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControl.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(37,7): error C3668: 'NaoRobotInterface::turnRight': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControl.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(41,7): error C3668: 'NaoRobotInterface::forward': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControl.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(45,7): error C3668: 'NaoRobotInterface::backward': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControl.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(49,7): error C3668: 'NaoRobotInterface::moveLeft': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControl.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(53,7): error C3668: 'NaoRobotInterface::moveRight': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControl.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(57,7): error C3668: 'NaoRobotInterface::stop': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControl.cpp')
+  
+  RobotControlTest.cpp
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(10,42): error C2504: 'RobotInterface': base class undefined
+  (compiling source file 'RobotControlTest.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(33,7): error C3668: 'NaoRobotInterface::turnLeft': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControlTest.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(37,7): error C3668: 'NaoRobotInterface::turnRight': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControlTest.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(41,7): error C3668: 'NaoRobotInterface::forward': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControlTest.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(45,7): error C3668: 'NaoRobotInterface::backward': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControlTest.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(49,7): error C3668: 'NaoRobotInterface::moveLeft': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControlTest.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(53,7): error C3668: 'NaoRobotInterface::moveRight': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControlTest.cpp')
+  
+C:\Users\resul\OneDrive\Masaüstü\oopdosylara\ProjeSolution\RobotProje\NaoRobotInterface.h(57,7): error C3668: 'NaoRobotInterface::stop': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'RobotControlTest.cpp')
+  
+  Generating Code...
